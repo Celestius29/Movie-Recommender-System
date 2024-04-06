@@ -3,7 +3,7 @@
 **Overview**
 
 This project implements a movie recommender system using Count Vectorizer and Cosine similarity. The dataset used for this project was acquired from - Dataset Source: [Kaggle](https://www.kaggle.com/datasets/yessicatuteja/indian-movies-imdb-rating-dataset).
-Overview
+
 **Requirements**
 
 - Python (>= 3.0)
@@ -27,11 +27,11 @@ bash
 
 Usage
 
-    Prepare your dataset or use the provided dataset.
+- Prepare your dataset or use the provided dataset.
 
-    Run the movie_recommender.py script to train the model and generate recommendations:
+- Run the movie_recommender.py script to train the model and generate recommendations:
 
-    bash
+    ```bash
 
     python movie_recommender.py
 
