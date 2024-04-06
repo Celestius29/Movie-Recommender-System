@@ -1,4 +1,4 @@
-**# Movie Recommender System using Machine Learning**
+<h1> Movie Recommender System using Machine Learning </h1>
 
 **Overview**
 
