@@ -16,7 +16,7 @@ This project implements a movie recommender system using Count Vectorizer and Co
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/movie-recommender-system.git
+   git clone https://github.com/Celestius29/movie-recommender-system.git
 
 
 Install the required dependencies:
